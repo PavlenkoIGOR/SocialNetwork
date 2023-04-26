@@ -1,0 +1,11 @@
+﻿-бизнес-модель User дадёт возможность пользователю редактировать
+            id, 
+            firstName, 
+            lastName, 
+            password, 
+            email, 
+            photo, 
+            favoriteMovie, 
+            favoriteBook значения самостоятельно в любое время после регистрации
+
+-класс UserAuthenticationData отвечает за аутентификацию пользователя (проверку на подлинность)
