@@ -8,6 +8,7 @@ using SocialNetwork.PLL.Views;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Reflection.Metadata;
+using Microsoft.EntityFrameworkCore.InMemory;
 
 namespace SocialNetwork.Tests
 {
